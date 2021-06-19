@@ -19,6 +19,7 @@ yarn run dev
 ## Tailwind
 
 ```CLI
+npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
 npx tailwindcs init -p
 ```
 
