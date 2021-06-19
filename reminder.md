@@ -40,3 +40,13 @@ Ajouter au main css
 ```
 
 ---
+
+## Developper Facebook
+
+Aller sur dev facebook et créer une app puis dans un fichier .env.local:
+
+```local
+FACEBOOK_CLIENT_ID=
+FACEBOOK_CLIENT_SECRET=
+NEXTAUTH_URL=http://localhost3000
+```

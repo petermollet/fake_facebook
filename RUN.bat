@@ -1,1 +1,1 @@
-set BROWSER=none&&npm start
+yarn run dev
