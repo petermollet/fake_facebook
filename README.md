@@ -1,4 +1,4 @@
-# Test NextJS, Tailwind CSS
+# Test NextJS, Tailwind CSS, with Firebase Image Uploading and Facebook Login
 
 
 ## Before running
