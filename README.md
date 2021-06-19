@@ -1,6 +1,20 @@
 # Test NextJS, Tailwind CSS
 
 
+## Before running
+
+Needs a ***.env.local*** file, go to https://developers.facebook.com/ and create an app, then in the file put:
+
+``` env
+FACEBOOK_CLIENT_ID= <your_client_id_from_dev_facebook>
+FACEBOOK_CLIENT_SECRET= <your_client_secret_from_dev_facebook>
+NEXTAUTH_URL=http://localhost3000
+```
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
